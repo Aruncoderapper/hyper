@@ -1,4 +1,4 @@
-
+[
 {
     "shop":"example.myshopify.com",
     "location":[
@@ -29,3 +29,4 @@
       }
     ]
 }
+]
