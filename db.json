@@ -1,32 +1,11 @@
-[
 {
-    "shop":"example.myshopify.com",
-    "location":[
-       {
-        "adress" : {
-            "name":"",
-            "addline1":"",
-            "address2":"",
-            "city":"",
-            "zip":"",
-            "province":"",
-            "country":""
-        },
-        "dilivery_options": [ 
-          {
-            "storepickup": {
-                "days":"",
-                "timising":"",
-                "custom_message": ""
-            },
-            "localdilivery": {
-                "days" : "",
-                "radius": "",
-                "custom_message":""
-            }
-          }
-         ]
-      }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-]
